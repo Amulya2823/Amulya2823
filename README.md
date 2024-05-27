@@ -12,8 +12,8 @@
 <br />
 <br />
 
-I'm a Software Engineer by profession and learnt MERN,
-working with React & Tailwind Ecosystem.  
+I'm a Software Engineer by profession and
+working with Node , React & Tailwind Ecosystem.  
 
 I'm just a mail away - amulyareddy58@gmail.com
 
