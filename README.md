@@ -12,7 +12,7 @@
 <br />
 <br />
 
-I'm a Software Engineer by profession and
+I'm a Software Engineer at <a href="https://www.techmahindra.com/en-in/?f=550183349">Tech Mahindra<a/> and
 working with Node , React & Tailwind Ecosystem.  
 
 I'm just a mail away - amulyareddy58@gmail.com
